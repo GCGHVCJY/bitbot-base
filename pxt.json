@@ -6,7 +6,8 @@
         "core": "*",
         "radio": "*",
         "mbit": "github:lzty634158/yahboom_mbit_en#4bac2710efec888847469dc70dc8b29181929526",
-        "microphone": "*"
+        "microphone": "*",
+        "BitBot": "github:4tronix/bitbot#v2.1.6"
     },
     "files": [
         "main.blocks",
